@@ -52,7 +52,7 @@ body {
   top: 2%;
   left: calc(50% - 4px);
 }
-
+/* TODO = Start from 42 minuts */
 .title {
   position: absolute;
   top: 55px;
@@ -85,8 +85,8 @@ body {
   background: #222;
   border-radius: 4px;
   padding: 10px;
-  font-size: 15px;
- 
+  font-size: 10px;
+  /* TODO do some correction if nedded for adjustment */
 }
 .vignett {
   height: 100dvh;
