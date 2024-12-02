@@ -4,7 +4,7 @@
 
 The Pong game is a classic arcade game that simulates table tennis. In this game, players control paddles to hit a ball back and forth. The game is built using HTML, CSS, and JavaScript, allowing two players to compete and track their scores in real-time. Additionally, sound effects enhance the gaming experience, providing an immersive feel. 
 
-## [Demo link🔗](https://deepak-mahanta.github.io/Arcade-PONG-Game/) 
+## [Let's Play🔗](https://deepak-mahanta.github.io/Arcade-PONG-Game/) 
 
 
 
@@ -16,7 +16,7 @@ https://github.com/Deepak-Mahanta/Arcade-PONG-Game/assets/162022648/0fdfebf2-b52
 
 **Step-1:** Press **'any key'** to start the game 
 
-**Step-2:** Use **'w'**(Up) & **'s'**(Down) keys for _left paddle_ movement. And for _rightpaddle_ use **'upArrow'**(Up) & **'downArrow'**(Down) to move up & down.
+**Step-2:** Use **'w'**(Up) & **'s'**(Down) keys for _left paddle_ movement. And for _right paddle_ use **'upArrow'**(Up) & **'downArrow'**(Down) to move up & down.
 
 ## Prerequisites
 
@@ -26,3 +26,13 @@ https://github.com/Deepak-Mahanta/Arcade-PONG-Game/assets/162022648/0fdfebf2-b52
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to the Arcade PONG Game, please fork the repository and submit a pull request with your proposed changes.
+
+## 📬 Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+- **Portfolio**: [Deepak.com](https://deepak-kumar-five.vercel.app)
+- **LinkedIn**: [linkedin](https://www.linkedin.com/in/contactdeepk/)
+
+We would love to hear from you!
+
